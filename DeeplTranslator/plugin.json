@@ -1,0 +1,12 @@
+{
+    "ID": "D34A8B7F5E6C4D2A9F1E0C8B7A6D5E4F",
+    "ActionKeyword": "dl",
+    "Name": "DeepL Translator",
+    "Description": "DeepLX翻译工具 - 支持多语言翻译",
+    "Author": "DingMan",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/your_repo",
+    "IcoPath": "Images\\icon.ico", 
+    "ExecuteFileName": "main.py"
+}
